@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/pref_sp_osasco_cert_trib-mcp",
+  "title": "Prefeitura SP Osasco: Certidão de Tributos de Empresa",
+  "description": "Prefeitura SP Osasco: Certificate de Tributos de Empresa, official-source lookup. Platform-hosted, p",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/pref_sp_osasco_cert_trib-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_pref_sp_osasco_cert_trib"
+    }
+  ]
+}
